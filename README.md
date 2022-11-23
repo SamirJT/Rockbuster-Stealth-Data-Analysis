@@ -11,5 +11,5 @@ departments may have.
 
 ## Data
 
-#### A relational database provided by Career Foundry, found [here](https://github.com/SamirJT/Rockbuster-Stealth-Data-Analysis/files/10076806/dvdrental.zip)
+#### A relational database provided by Career Foundry, found [here.](https://github.com/SamirJT/Rockbuster-Stealth-Data-Analysis/files/10076806/dvdrental.zip)
 #### Link to project [Tableau Visualization](https://public.tableau.com/app/profile/samir.thomas/viz/shared/P36CYKR43)
