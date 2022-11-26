@@ -10,3 +10,7 @@
 
 #### A relational database provided by Career Foundry, found [here.](https://github.com/SamirJT/Rockbuster-Stealth-Data-Analysis/files/10076806/dvdrental.zip)
 #### Link to project [Tableau Visualization](https://public.tableau.com/app/profile/samir.thomas/viz/shared/P36CYKR43)
+
+## Project Skills on Display
+
+#Relational databases SQL, Database querying, Filtering, Cleaning and summarizing, Joining tables, Subqueries, Common table expressions 
